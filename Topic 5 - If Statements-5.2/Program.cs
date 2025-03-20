@@ -53,12 +53,43 @@
             //        Console.WriteLine("Incorrect.");
             //    else
             //        Console.WriteLine("Incorrect.");
-            }
+            //}
 
             //Console.WriteLine("Task two");
+            //int temp;
+            //Console.WriteLine("Enter the temperature of the water.");
+            //if (int.TryParse(Console.ReadLine(), out temp));
+            //{
+            //    if (temp <= 0)
+            //        Console.WriteLine("You have a solid!");
+            //    else if (temp < 100)
+            //        Console.WriteLine("You have liquid!");
+            //    else
+            //        Console.WriteLine("You have gas!");
+            //}
+
+            //Console.WriteLine("Task three");
+            //string name;
+            //int age;
+            //Console.WriteLine("Hey, what's your name?");
+            //name = Console.ReadLine();
+            //Console.WriteLine("Ok, " + name + ", how old are you?");
+            //int.TryParse(Console.ReadLine(), out age);
+            //{
+            //    if (age < 0)
+            //        Console.WriteLine("Impossible!");
+            //    else if (age < 16);
+            //        Console.WriteLine("You can't drive.");
+            //    else if (age < 18)
+            //        Console.WriteLine("You can drive but not vote.");
+            //    else if (age < 25)
+            //        Console.WriteLine("You can vot but not rent a car.");
+            //    else
+            //        Console.WriteLine("You can do pretty much anything.");
+            //}
 
 
-            }
         }
+    }
     }
 }
